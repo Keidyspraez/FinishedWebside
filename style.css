@@ -1,0 +1,12 @@
+body{
+  background-color: #ffffff;
+ }
+.Titulo{
+  color:#0b0d4c
+  display: flex;
+  flex-direction: column;
+}
+img{
+  height: -300px;
+  width: -500px;
+}
